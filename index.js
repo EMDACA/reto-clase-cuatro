@@ -1,0 +1,1 @@
+console.log("Aplicación Reto Clase Cuatro está funcionando");

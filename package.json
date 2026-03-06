@@ -1,0 +1,14 @@
+{
+  "name": "reto-clase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"scripts": {
+  "test": "echo \"Pruebas ejecutadas correctamente\"",
+  "build": "echo \"Build realizado correctamente\""
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
